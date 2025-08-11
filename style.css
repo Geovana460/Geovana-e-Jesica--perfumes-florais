@@ -1,9 +1,13 @@
 body {
     color:black;
     background:pink;
-    margin: 2px
+    margin: 2px;
 }
 
 header{
     border-bottom:solid 2px black;
+margin: 20px;
+
+
+
 }
