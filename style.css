@@ -16,10 +16,10 @@ section{
     display: flex;
 } 
 
-h1{
-   font-size: 40px; 
-}  
+h1 {
+    font-size: 40px;
+}
 
-p{
-   font-size: 18px;
+p {
+    font-size: 20px;
 }
