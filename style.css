@@ -25,15 +25,14 @@ p {
 }
 img{ 
     height: 250px;
-}
 
-.categoria-videos {
+}
+categoria-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
-
-.categoria {
+  categoria {
     padding-left: 20px;
     padding-right: 20px;
 }
