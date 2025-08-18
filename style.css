@@ -27,10 +27,11 @@ img{
     height: 250px;
 }
 
-categoria img {
+categoria-videos img {
     opacity: 0.5;
+ 
 }
-categoria img:hover {
+categoria h2 {
     opacity: 1.0;
     border: 3px solid white;
 }
