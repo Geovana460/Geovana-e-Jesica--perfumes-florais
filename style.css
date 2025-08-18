@@ -27,11 +27,13 @@ img{
     height: 250px;
 }
 
-categoria-videos img {
-    opacity: 0.5;
- 
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
 }
-categoria h2 {
-    opacity: 1.0;
-    border: 3px solid white;
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
 }
